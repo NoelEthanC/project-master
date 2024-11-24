@@ -1,0 +1,22 @@
+{
+  "name": "mlimi-hub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "concurrently \"npm run backend\" \"npm run frontend\"",
+    "backend": "cd mlimihubbackend && npm run dev",
+    "frontend": "cd frontend && npm run dev",
+    "setup": "concurrently  \"npm i\" \"cd mlimihubbackend && npm i\" \"cd frontend && npm i\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "dependencies": {
+    "mlimi-hub": "file:",
+    "vue-quill-editor": "^3.0.6"
+  }
+}

@@ -1,0 +1,287 @@
+[
+  {
+    "title": "Agricultural Science",
+    "description": "Agricultural Science is a comprehensive course that explores the principles and practices behind modern agriculture. Students delve into the science of crop cultivation, animal husbandry, and sustainable farming methods. ",
+    "thumbnail": "https://bharuwaagriscience.com/assets/images/agricultural-science-fly.jpg",
+    "ratings": 5,
+    "lessons": [
+      {
+        "name": "Introduction to Agriculture",
+        "description": "Explore the basics of agriculture and its significance.",
+        "ratings": 4,
+        "content": "<p>Introduction to Agriculture<br /><br /><img alt=\"agriculture\" src=\"https://images.unsplash.com/photo-1557234195-bd9f290f0e4d?q=80&amp;w=2070&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D\" style=\"height:167px; width:695px\" /><br /><br />&nbsp;Welcome to the fascinating world of agriculture! In this introductory lesson, we embark on a journey to understand the fundamental principles and historical significance of agriculture. Agriculture, often regarded as the backbone of human civilization, involves the cultivation of crops and the domestication of animals. By exploring the origins of agriculture, we gain valuable insights into how this essential practice has shaped societies over thousands of years.</p><p>The exploration begins with an overview of the agricultural revolution, a pivotal moment in human history when our ancestors transitioned from nomadic lifestyles to settled farming communities. We delve into the transformative impact of agriculture on food production, population growth, and societal structure. Through engaging narratives and historical context, we aim to grasp the profound influence agriculture has had on shaping the course of human development.</p><p>As we progress through this lesson, you&#39;ll gain a comprehensive understanding of the diverse facets of agriculture, from traditional farming methods to modern practices. We&#39;ll touch upon the ecological, economic, and social dimensions of agriculture, emphasizing its critical role in sustaining life on our planet. By the end of this introductory journey, you&#39;ll be equipped with a solid foundation, setting the stage for deeper explorations into the intricate world of agricultural science in the subsequent lessons.</p>",
+        "quizz": {
+          "name": "Introduction Quizz",
+          "questions": [
+            {
+              "caption": "What is agriculture?",
+              "options": [
+                "A process of mining",
+                "Cultivation of crops",
+                "Manufacturing goods"
+              ],
+              "correctAnswer": "Cultivation of crops"
+            },
+            {
+              "caption": "When did humans start practicing agriculture?",
+              "options": [
+                "5000 years ago",
+                "10000 years ago",
+                "2000 years ago"
+              ],
+              "correctAnswer": "10000 years ago"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Crop Management",
+        "description": "Learn about effective crop management techniques.",
+        "ratings": 4,
+        "content": "<p><strong>Crop Management</strong></p><p><strong><img alt=\"crops\" src=\"https://images.unsplash.com/photo-1620200423727-8127f75d7f53?q=80&amp;w=2070&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D\" style=\"height:133px; width:643px\" /></strong></p><p>&nbsp;</p><p>&nbsp;Welcome to the second lesson, where we delve into the essential realm of Crop Management. This crucial aspect of agriculture involves the strategic planning and execution of practices to ensure optimal crop health and yield. Crop Management encompasses a spectrum of techniques, including irrigation, pest control, and nutrient management, all of which play pivotal roles in maximizing agricultural productivity. In this lesson, we&#39;ll unravel the intricacies of effective crop management and its significance in sustainable agriculture.</p><p>&nbsp;Our exploration begins with an in-depth look at the importance of irrigation in crop cultivation. We&#39;ll examine various irrigation methods, from traditional techniques to advanced systems, understanding how proper water distribution contributes to healthy plant growth and abundant harvests. Additionally, we&#39;ll explore the challenges associated with water scarcity and the innovative solutions that farmers employ to mitigate its impact on crop production.</p><p>&nbsp;Moving forward, we&#39;ll address the critical topic of pest control in agriculture. From biological pest management to integrated pest management (IPM), we&#39;ll cover diverse approaches aimed at minimizing crop damage while prioritizing environmental sustainability. As we navigate through the intricacies of Crop Management, you&#39;ll gain practical insights into fostering resilient crops, enhancing agricultural sustainability, and contributing to the overall health of our global food systems. Get ready to embark on a journey that empowers you with the knowledge and skills needed for effective crop management in the dynamic field of agriculture.</p>",
+        "quizz": {
+          "name": "Crop Management Quizz",
+          "questions": [
+            {
+              "caption": "What is the purpose of irrigation in agriculture?",
+              "options": [
+                "Pest control",
+                "Watering plants",
+                "Harvesting crops"
+              ],
+              "correctAnswer": "Watering plants"
+            },
+            {
+              "caption": "How can farmers control pests organically?",
+              "options": [
+                "Chemical pesticides",
+                "Biological control",
+                "No control needed"
+              ],
+              "correctAnswer": "Biological control"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Sustainable Agriculture Practices",
+        "description": "Learn about sustainable farming methods and their benefits.",
+        "ratings": 4,
+        "content": "<p><strong>Lesson: Sustainable Agriculture Practices</strong></p><p><strong><img alt=\"sustenance\" src=\"https://images.unsplash.com/photo-1559884743-74a57598c6c7?q=80&amp;w=2076&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D\" style=\"height:137px; width:710px\" /></strong></p><p>Welcome to a crucial lesson in our agricultural journey - &quot;Sustainable Agriculture Practices.&quot; As the world faces environmental challenges, the importance of sustainable agriculture has never been more evident. In this lesson, we&#39;ll explore the principles and practices that form the foundation of sustainable agriculture, ensuring the long-term health of our ecosystems, communities, and food systems.</p><p>Sustainable agriculture is a holistic approach to farming that seeks to balance the needs of the present with the ability of future generations to meet their own needs. Our exploration begins by understanding the three pillars of sustainability - environmental health, economic profitability, and social equity. We&#39;ll delve into the interconnectedness of these pillars, emphasizing the need for farming practices that conserve natural resources, promote biodiversity, and support the well-being of farming communities.</p><p>&nbsp;One key aspect of sustainable agriculture is soil health. We&#39;ll explore the significance of practices such as cover cropping, crop rotation, and organic farming in maintaining and improving soil fertility. Understanding the importance of healthy soil structure and composition is vital for sustainable crop production. Additionally, we&#39;ll discuss the integration of agroforestry and other agroecological approaches that enhance biodiversity and promote resilience in agricultural systems.</p>",
+        "quizz": {
+          "name": "Sustainability Quizz",
+          "questions": [
+            {
+              "caption": "What is the goal of sustainable agriculture?",
+              "options": [
+                "Maximizing short-term profits",
+                "Preserving natural resources",
+                "Eliminating crop diversity"
+              ],
+              "correctAnswer": "Preserving natural resources"
+            },
+            {
+              "caption": "Which of the following is a sustainable pest control method?",
+              "options": [
+                "Heavy pesticide use",
+                "Crop rotation",
+                "Monoculture"
+              ],
+              "correctAnswer": "Crop rotation"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "title": "Advanced Agricultural Economics",
+    "description": "This course delves into the economic aspects of agriculture, exploring the principles and theories that govern the financial dynamics of farming. Students will gain insights into market trends, agricultural policies, and decision-making strategies for sustainable economic practices.",
+    "thumbnail": "https://images.unsplash.com/photo-1625246333195-78d9c38ad449?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "ratings": 4,
+    "lessons": [
+      {
+        "name": "Fundamentals of Agricultural Economics",
+        "description": "Explore the fundamental principles of agricultural economics and their application in modern farming.",
+        "ratings": 4,
+        "content": "<p>Fundamentals of Agricultural Economics<br /><br /><img alt=\"agricultural-economics\" src=\"https://images.unsplash.com/photo-1461354464878-ad92f492a5a0?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D\" style=\"height:167px; width:695px\" /><br /><br />&nbsp;Welcome to the world of Agricultural Economics! This lesson provides an in-depth understanding of the economic principles that shape decision-making in agriculture. We'll cover topics such as supply and demand, market structures, and the role of government policies in the agricultural sector. By the end of this lesson, you'll have a solid foundation to analyze economic challenges and opportunities in the farming industry.</p>",
+        "quizz": {
+          "name": "Agricultural Economics Quizz",
+          "questions": [
+            {
+              "caption": "What is the law of demand?",
+              "options": [
+                "The higher the price, the lower the quantity demanded.",
+                "The lower the price, the lower the quantity demanded.",
+                "The higher the price, the higher the quantity demanded."
+              ],
+              "correctAnswer": "The lower the price, the higher the quantity demanded."
+            },
+            {
+              "caption": "How do government subsidies impact agriculture?",
+              "options": [
+                "Increase production costs",
+                "Decrease farm income",
+                "Provide financial support to farmers"
+              ],
+              "correctAnswer": "Provide financial support to farmers"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Market Trends in Agriculture",
+        "description": "Analyze and interpret market trends in agriculture, enabling informed decision-making for farmers and stakeholders.",
+        "ratings": 4,
+        "content": "<p><strong>Market Trends in Agriculture</strong></p><p><strong><img alt=\"market-trends\" src=\"https://images.unsplash.com/photo-1524486361537-8ad15938e1a3?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D\" style=\"height:133px; width:643px\" /></strong></p><p>&nbsp;</p><p>&nbsp;In this lesson, we explore the dynamic world of market trends in agriculture. Understanding market forces is crucial for farmers and stakeholders to make informed decisions. We'll delve into the factors influencing commodity prices, global trade patterns, and emerging market trends. By the end of this lesson, you'll be equipped with the knowledge to navigate the complexities of agricultural markets.</p>",
+        "quizz": {
+          "name": "Market Trends Quizz",
+          "questions": [
+            {
+              "caption": "What factors can influence commodity prices in agriculture?",
+              "options": [
+                "Global weather patterns",
+                "Government policies",
+                "Both A and B"
+              ],
+              "correctAnswer": "Both A and B"
+            },
+            {
+              "caption": "Why is understanding market trends important for farmers?",
+              "options": [
+                "To control market prices",
+                "To make informed decisions",
+                "To eliminate competition"
+              ],
+              "correctAnswer": "To make informed decisions"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Sustainable Financial Practices in Agriculture",
+        "description": "Learn about sustainable financial practices that contribute to the long-term success of agricultural businesses.",
+        "ratings": 4,
+        "content": "<p><strong>Lesson: Sustainable Financial Practices in Agriculture</strong></p><p><strong><img alt=\"sustainable-finances\" src=\"https://images.unsplash.com/photo-1457530378978-8bac673b8062?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D\" style=\"height:137px; width:710px\" /></strong></p><p>Welcome to a crucial lesson focusing on sustainable financial practices in agriculture. As farming businesses evolve, adopting sustainable financial strategies becomes imperative. We'll explore concepts such as budgeting, risk management, and diversification to ensure the economic resilience of agricultural enterprises.</p>",
+        "quizz": {
+          "name": "Financial Sustainability Quizz",
+          "questions": [
+            {
+              "caption": "Why is diversification important in agricultural businesses?",
+              "options": [
+                "To increase risk",
+                "To reduce risk",
+                "To eliminate competition"
+              ],
+              "correctAnswer": "To reduce risk"
+            },
+            {
+              "caption": "What role does budgeting play in sustainable agriculture?",
+              "options": [
+                "To increase expenses",
+                "To decrease profits",
+                "To manage resources efficiently"
+              ],
+              "correctAnswer": "To manage resources efficiently"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "title": "Precision Farming Technology",
+    "description": "This course focuses on the integration of advanced technologies in agriculture, specifically precision farming. Students will explore the application of drones, sensors, and data analytics to optimize crop production, resource utilization, and overall farm efficiency.",
+    "thumbnail": "https://images.unsplash.com/photo-1580982325236-11d214b9f279?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "ratings": 4,
+    "lessons": [
+      {
+        "name": "Introduction to Precision Farming",
+        "description": "Discover the fundamentals of precision farming and its transformative impact on modern agriculture.",
+        "ratings": 4,
+        "content": "<p>Introduction to Precision Farming<br /><br /><img alt=\"precision-farming\" src=\"https://plus.unsplash.com/premium_photo-1663036825242-2c24ea2ea3a2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D\" style=\"height:167px; width:695px\" /><br /><br />&nbsp;Welcome to the future of agriculture! In this introductory lesson, we delve into the exciting realm of precision farming. Learn how cutting-edge technologies, such as sensors, GPS, and automated machinery, are revolutionizing traditional farming practices. Gain insights into the benefits of precision farming, including improved crop yields, resource efficiency, and sustainable agriculture.</p>",
+        "quizz": {
+          "name": "Precision Farming Quizz",
+          "questions": [
+            {
+              "caption": "What is the main goal of precision farming?",
+              "options": [
+                "Maximizing manual labor",
+                "Optimizing resource use",
+                "Minimizing technology"
+              ],
+              "correctAnswer": "Optimizing resource use"
+            },
+            {
+              "caption": "How does GPS contribute to precision farming?",
+              "options": [
+                "Guiding irrigation systems",
+                "Controlling pests",
+                "Enhancing crop flavor"
+              ],
+              "correctAnswer": "Guiding irrigation systems"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Drone Technology in Agriculture",
+        "description": "Explore the use of drones in agriculture for monitoring crops, assessing field conditions, and implementing precision applications.",
+        "ratings": 4,
+        "content": "<p><strong>Drone Technology in Agriculture</strong></p><p><strong><img alt=\"drone-technology\" src=\"https://plus.unsplash.com/premium_photo-1664475382326-3dc5510e4ff9?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D\" style=\"height:133px; width:643px\" /></strong></p><p>&nbsp;</p><p>&nbsp;In this lesson, we uncover the transformative role of drone technology in agriculture. Drones provide farmers with real-time data, enabling precise decision-making. Explore the various applications of drones, from crop monitoring and pest control to assessing soil conditions. By the end of this lesson, you'll understand how drones contribute to increased efficiency and sustainability in modern farming.</p>",
+        "quizz": {
+          "name": "Drone Technology Quizz",
+          "questions": [
+            {
+              "caption": "What is a key benefit of using drones in agriculture?",
+              "options": [
+                "Increased manual labor",
+                "Real-time data for decision-making",
+                "Decreased crop yields"
+              ],
+              "correctAnswer": "Real-time data for decision-making"
+            },
+            {
+              "caption": "How can drones be used for pest control in agriculture?",
+              "options": [
+                "Applying chemical pesticides",
+                "Monitoring pest movements",
+                "Creating noise to scare pests"
+              ],
+              "correctAnswer": "Monitoring pest movements"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Data Analytics for Crop Optimization",
+        "description": "Learn how data analytics is applied to agricultural data for precision crop management and yield optimization.",
+        "ratings": 4,
+        "content": "<p><strong>Lesson: Data Analytics for Crop Optimization</strong></p><p><strong><img alt=\"data-analytics\" src=\"https://plus.unsplash.com/premium_photo-1664476493417-2c1fd048a638?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D\" style=\"height:137px; width:710px\" /></strong></p><p>Explore the power of data analytics in agriculture, where information becomes a valuable asset. Learn how data-driven insights enhance crop management, predict yield outcomes, and contribute to overall farm profitability. Discover the tools and techniques used to analyze agricultural data and make informed decisions for optimal crop performance.</p>",
+        "quizz": {
+          "name": "Data Analytics Quizz",
+          "questions": [
+            {
+              "caption": "How does data analytics contribute to crop management?",
+              "options": [
+                "It decreases the need for irrigation",
+                "It provides insights for informed decisions",
+                "It increases manual labor"
+              ],
+              "correctAnswer": "It provides insights for informed decisions"
+            },
+            {
+              "caption": "What is the primary goal of using data analytics in agriculture?",
+              "options": [
+                "Reducing crop yields",
+                "Optimizing resource use",
+                "Increasing manual labor"
+              ],
+              "correctAnswer": "Optimizing resource use"
+            }
+          ]
+        }
+      }
+    ]
+  }
+]
